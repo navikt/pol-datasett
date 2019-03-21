@@ -7,7 +7,7 @@
 		"ownership": "Ytelsesavdelingen",
 		"sourceOfRecord": "Folkeregisteret",
 		"qualityofData": "God",
-		"personalData": true,
+		"personalData": true
 	},
 	{
 		"name": "Bostedsadresse",
@@ -17,7 +17,7 @@
 		"ownership": "Ytelsesavdelingen",
 		"sourceOfRecord": "Folkeregisteret",
 		"qualityofData": "God",
-		"personalData": true,
+		"personalData": true
 	},
 	{
 		"name": "Bostedsadresse",
@@ -27,7 +27,7 @@
 		"ownership": "Ytelsesavdelingen",
 		"sourceOfRecord": "Folkeregisteret",
 		"qualityofData": "Middels",
-		"personalData": true,
+		"personalData": true
 	},
 	{
 		"name": "Fødsel",
@@ -37,7 +37,7 @@
 		"ownership": "Ytelsesavdelingen",
 		"sourceOfRecord": "Folkeregisteret",
 		"qualityofData": "God",
-		"personalData": true,
+		"personalData": true
 	},
 	{
 		"name": "Refleksjonsperiode",
@@ -47,7 +47,7 @@
 		"ownership": "Ytelsesavdelingen",
 		"sourceOfRecord": "Folkeregisteret",
 		"qualityofData": "Dårlig",
-		"personalData": true,
+		"personalData": true
 	},
 	{
 		"name": "Inntekt",
@@ -57,6 +57,6 @@
 		"ownership": "Ytelsesavdelingen",
 		"sourceOfRecord": "Folkeregisteret",
 		"qualityofData": "God",
-		"personalData": true,
-	},
+		"personalData": true
+	}
 ]
