@@ -6,7 +6,7 @@
 		"sensitivity": "5",
 		"ownership": "Ytelsesavdelingen",
 		"sourceOfRecord": "Folkeregisteret",
-		"qualityofData": "God",
+		"qualityOfData": "God",
 		"personalData": true
 	},
 	{
@@ -16,7 +16,7 @@
 		"sensitivity": "5",
 		"ownership": "Ytelsesavdelingen",
 		"sourceOfRecord": "Folkeregisteret",
-		"qualityofData": "God",
+		"qualityOfData": "God",
 		"personalData": true
 	},
 	{
@@ -26,7 +26,7 @@
 		"sensitivity": "5",
 		"ownership": "Ytelsesavdelingen",
 		"sourceOfRecord": "Folkeregisteret",
-		"qualityofData": "Middels",
+		"qualityOfData": "Middels",
 		"personalData": true
 	},
 	{
@@ -36,7 +36,7 @@
 		"sensitivity": "5",
 		"ownership": "Ytelsesavdelingen",
 		"sourceOfRecord": "Folkeregisteret",
-		"qualityofData": "God",
+		"qualityOfData": "God",
 		"personalData": true
 	},
 	{
@@ -46,7 +46,7 @@
 		"sensitivity": "5",
 		"ownership": "Ytelsesavdelingen",
 		"sourceOfRecord": "Folkeregisteret",
-		"qualityofData": "Dårlig",
+		"qualityOfData": "Dårlig",
 		"personalData": true
 	},
 	{
@@ -56,7 +56,7 @@
 		"sensitivity": "5",
 		"ownership": "Ytelsesavdelingen",
 		"sourceOfRecord": "Folkeregisteret",
-		"qualityofData": "God",
+		"qualityOfData": "God",
 		"personalData": true
 	}
 ]
