@@ -4,5 +4,6 @@
   "category": "PERSONALIA",
   "producer": "SKATTEETATEN",
   "system": "TPS",
+  "createdBy": "TestData",
   "personalData": true
 }
