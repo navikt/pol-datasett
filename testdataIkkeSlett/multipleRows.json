@@ -9,7 +9,7 @@
 		"personalData": true
 	},
 	{
-		"name": "Bostedsadresse",
+		"name": "Postadresse",
 		"description": "En geografisk adresse fra Folkeregisteret som angir hvor en fysisk person bor i juridisk forstand. Adressen angir hvor den gitte personen er regnet som bosatt etter folkeregisterlovgivningen. Bostedsadressen fastsettes i et enkeltvedtak av Skatteetaten. Bostedsadressen vil alltid være en norsk stedsadresse eller en norsk gateadresse, og er en av tre godkjente geografiske adressetyper i TPS.",
 		"category": "PERSONALIA",
 		"producer": "SKATTEETATEN",
