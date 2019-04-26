@@ -3,6 +3,6 @@
   "description": "En overordnet kategori som beskriver en persons forhold til en annen person.",
   "category": "PERSONALIA",
   "ownership": "SKATTEETATEN",
-  "producer": "TPS",
+  "system": "TPS",
   "personalData": true
 }
