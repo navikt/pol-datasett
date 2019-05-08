@@ -5,7 +5,6 @@
 		"category": "PERSONALIA",
 		"producer": "SKATTEETATEN",
 		"system": "TPS",
-		"createdBy": "TestData",
 		"personalData": true
 	},
 	{
@@ -14,7 +13,6 @@
 		"category": "PERSONALIA",
 		"producer": "SKATTEETATEN",
 		"system": "PESYS",
-		"createdBy": "TestData",
 		"personalData": true
 	},
 	{
@@ -23,7 +21,6 @@
 		"category": "PERSONALIA",
 		"producer": "SKATTEETATEN",
 		"system": "PESYS",
-		"createdBy": "TestData",
 		"personalData": true
 	},
 	{
@@ -32,7 +29,6 @@
 		"category": "PERSONALIA",
 		"producer": "SKATTEETATEN",
 		"system": "INFOTRYGD",
-		"createdBy": "TestData",
 		"personalData": true
 	},
 	{
@@ -41,7 +37,6 @@
 		"category": "PERSONALIA",
 		"producer": "UTLENDINGSDIREKTORATET",
 		"system": "INST",
-		"createdBy": "TestData",
 		"personalData": true
 	},
 	{
@@ -50,7 +45,6 @@
 		"category": "INNTEKT_YTELSER",
 		"producer": "SKATTEETATEN",
 		"system": "ARENA",
-		"createdBy": "TestData",
 		"personalData": true
 	}
 ]
