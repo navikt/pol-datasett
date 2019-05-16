@@ -1,8 +1,0 @@
-{
-  "name": "Sivilstand",
-  "description": "En overordnet kategori som beskriver en persons forhold til en annen person.",
-  "category": "PERSONALIA",
-  "producer": "SKATTEETATEN",
-  "system": "TPS",
-  "personalData": true
-}
