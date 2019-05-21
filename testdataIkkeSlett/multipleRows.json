@@ -32,6 +32,14 @@
 		"personalData": true
 	},
 	{
+		"name": "Update a file by adding this section",
+		"description": "Test of updating a file",
+		"category": "PERSONALIA",
+		"producer": "SKATTEETATEN",
+		"system": "TPS",
+		"personalData": false
+	},
+	{
 		"name": "Inntekt",
 		"description": "Inntekt rapportert inn via a-ordningen, ferdiglignet PGI fra Opptjeningsregisteret eller inntekter oppgitt av bruker som beskriver brukers inntekt forut for uttak av ytelsen.",
 		"category": "INNTEKT_YTELSER",
