@@ -1,0 +1,8 @@
+{
+  "name": "Added file",
+  "description": "Test av adding file to master branch",
+  "category": "PERSONALIA",
+  "producer": "SKATTEETATEN",
+  "system": "TPS",
+  "personalData": true
+}
