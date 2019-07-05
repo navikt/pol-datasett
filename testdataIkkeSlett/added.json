@@ -1,0 +1,8 @@
+{
+	"name": "added",
+	"description": "description",
+	"categoryCode": "PERSONALIA",
+	"producerCode": ["SKATTEETATEN", "bruker"],
+	"systemCode": "PESYS",
+	"personalData": true
+}

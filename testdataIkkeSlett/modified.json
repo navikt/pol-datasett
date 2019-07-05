@@ -1,14 +1,14 @@
 [
 	{
-		"name": "modified_removed",
-		"description": "description",
+		"name": "modified_changed",
+		"description": "description changed",
 		"categoryCode": "PERSONALIA",
 		"producerCode": ["SKATTEETATEN", "bruker"],
-		"systemCode": "TPS",
+		"systemCode": "PESYS",
 		"personalData": true
 	},
 	{
-		"name": "modified_changed",
+		"name": "modified_added",
 		"description": "description",
 		"categoryCode": "PERSONALIA",
 		"producerCode": ["SKATTEETATEN", "bruker"],
